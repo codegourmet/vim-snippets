@@ -1,2 +1,3 @@
 # vim-snippets
-My Vim snippets
+
+My Vim snippets for SnipMate.
